@@ -53,7 +53,7 @@ class _TodosPageState extends State<TodosPage> {
 
   @override
   void initState() {
-    // to be filled in a later step
+    // to be filled in a later steps
 
     // kick off app initialization
     _initializeApp();
