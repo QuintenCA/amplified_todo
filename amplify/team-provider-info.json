@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pickleballtodo-staging-24423-authRole",
+      "UnauthRoleArn": "arn:aws:iam::441119214132:role/amplify-pickleballtodo-staging-24423-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::441119214132:role/amplify-pickleballtodo-staging-24423-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-pickleballtodo-staging-24423-deployment",
+      "UnauthRoleName": "amplify-pickleballtodo-staging-24423-unauthRole",
+      "StackName": "amplify-pickleballtodo-staging-24423",
+      "StackId": "arn:aws:cloudformation:us-east-1:441119214132:stack/amplify-pickleballtodo-staging-24423/4b679fe0-3e0e-11ed-bc69-121a174b4a23",
+      "AmplifyAppId": "d39ht2czj8i875"
+    }
+  }
+}
